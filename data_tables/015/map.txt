@@ -1,0 +1,169 @@
+Subject.ID	Sample.Date	Sub.Study	Exclude	Sample.Month	Age	Public.Housing	Medical.Assistance	Children.Free.Lunch	Highest.Education	Ethnicity	Religion	Type.Birth.Location	Years.in.US	Type.location.before.US	Years.lived.in.Location.before.US	Tobacco.Use	Alcohol.Use	Height	Weight	Waist	BMI	BMI.Class	Breastfed	Years.Breastfed	Age.at.Arrival	Weight.M6	BMI.M6	Waist.M6	Measurement.Date.M6	Sample.Order	Sample.Group	Waist.Height.Ratio	Generation
+CS.199	IMP.143	7/11/16	CS	NA	NA	52	N	Y	Y	LHS	Karen	Christianity	Rural Village	3.86	Refugee Camp	15	Never	Daily	56	86.8	29	19.46	Normal	Y	1.5	48.14	NA	NA	NA		NA	Karen1st	0.517857143	1stGen
+CS.091	IMP.081	5/21/16	CS	NA	NA	44	N	Y	Y	ESL	Karen	Christianity	Rural Village	0.545	Refugee Camp	22	Never	Never	60.5	116.6	32.5	22.39	Normal	N	NA	43.455	NA	NA	NA		NA	Karen1st	0.537190083	1stGen
+L.031.M1	IMP.273	9/4/16	L	NA	1	20	NA	NA	NA	HS	Karen	Christianity	Rural Village	0.02192	Refugee Camp	32	Never	Never	58.3	90.39	30.1	18.7	Normal	Y	2	19.97808	101.6	21.01	32.2	2/12/17	1	Karen1st	0.516295026	1stGen
+CS.277	IMP.351	10/28/16	CS	NA	NA	34	N	Y	Y	ESL	Karen	Christianity	Rural Village	0.184	Refugee Camp	12	Never	Never	62	130	30	23.77	Normal	Y	2.5	33.816	NA	NA	NA		NA	Karen1st	0.483870968	1stGen
+CS.280	IMP.349	11/3/16	CS	NA	NA	19	N	Y	N	ESL	Karen	Christianity	Rural Village	3.529	Refugee Camp	11	Never	Never	61.5	116	33	21.56	Normal	Y	2	15.471	NA	NA	NA		NA	Karen1st	0.536585366	1stGen
+L.006.M1	IMP.072	5/19/16	L	NA	1	41	N	N	N	ESL	Karen	Christianity	Rural Village	0.014	Refugee Camp	21	Quit	Never	59.5	107.2	32	21.29	Normal	Y	4	40.986	112.4	22.32	33.5	10/18/16	1	Karen1st	0.537815126	1stGen
+CS.297	IMP.266	7/31/16	CS	NA	NA	19	N	N	N	ESL	Karen	Christianity	Refugee Camp	0.008	Refugee Camp	16	Never	Never	62	101	29	18.47	Normal	Y	1.41	18.992	NA	NA	NA		NA	Karen1st	0.467741935	1stGen
+CS.104	IMP.117	6/27/16	CS	NA	NA	24	N	N	N	HS	Karen	Christianity	Rural Village	4.616	Refugee Camp	8	Never	Never	62	115.2	30.5	21.07	Normal	Y	1.5	19.384	NA	NA	NA		NA	Karen1st	0.491935484	1stGen
+CS.257	IMP.306	9/9/16	CS	NA	NA	36	N	Y	Y	ESL	Karen	Christianity	Rural Village	0.942	Refugee Camp	10	Never	Monthly	58.5	98.4	36	20.21	Normal	Y	1.5	35.058	NA	NA	NA		NA	Karen1st	0.615384615	1stGen
+CS.259	IMP.300	8/25/16	CS	NA	NA	42	N	Y	Y	ESL	Karen	Buddhism	Rural Village	1.101	Refugee Camp	23	Quit	Never	57	113.2	35.5	24.49	Normal	Y	3	40.899	NA	NA	NA		NA	Karen1st	0.622807018	1stGen
+CS.357	IMP.293	8/16/16	CS	NA	NA	20	N	Y	NA	ESL	Karen	Christianity	Rural Village	1.082	Refugee Camp	8	Never	Occasionally	57.2	116.2	35	24.97	Normal	Y	2.25	18.918	NA	NA	NA		NA	Karen1st	0.611888112	1stGen
+CS.086	IMP.066	5/23/16	CS	NA	NA	49	N	Y	Y	ESL	Karen	Christianity	Rural Village	1.134	Refugee Camp	15	Never	Never	63	132	36	23.38	Normal	Y	2.5	47.866	NA	NA	NA		NA	Karen1st	0.571428571	1stGen
+CS.093	IMP.067	5/23/16	CS	NA	NA	30	N	Y	Y	ESL	Karen	Christianity	Rural Village	1.079	Refugee Camp	14	Never	Never	57	113.2	30	24.49	Normal	Y	0.25	28.921	NA	NA	NA		NA	Karen1st	0.526315789	1stGen
+L.033.M1	IMP.274	9/2/16	L	NA	1	29	NA	NA	NA	LHS	Karen	Christianity	Refugee Camp	0.02192	Refugee Camp	29	Never	Daily	61	121.25	29.1	22.91	Normal	Y	2.5	28.97808	129	24.37	34	2/16/17	1	Karen1st	0.47704918	1stGen
+CS.019	IMP.019	2/27/16	CS	NA	NA	36	N	Y	Y	HS	Karen	Buddhism	Rural Village	7.83	Refugee Camp	24	Never	Never	64.5	145.6	33.75	24.6	Normal	Y	NA	28.17	NA	NA	NA		NA	Karen1st	0.523255814	1stGen
+CS.248	IMP.182	7/16/16	CS	NA	NA	50	N	N	Y	HS	Hmong	Christianity	Rural Village	40.559	Refugee Camp	1	Never	Never	64	124.2	32.5	21.32	Normal	Y	2	9.441	NA	NA	NA		NA	Hmong1st	0.5078125	1stGen
+CS.118	IMP.150	7/9/16	CS	NA	NA	21	N	N	NA	HS	Hmong	Christianity	Rural Village	1.855	Rural Village	8	Never	Never	58.75	107.8	30	21.96	Normal	Y	1	19.145	NA	NA	NA		NA	Hmong1st	0.510638298	1stGen
+CS.371.1	IMP.312	10/2/16	CS	NA	NA	48	Y	Y	NA	LHS	Hmong	Hmong Animism	Rural Village	23.718	Refugee Camp	11	Never	Never	58.5	96	30	19.72	Normal	Y	NA	24.282	NA	NA	NA		NA	Hmong1st	0.512820513	1stGen
+CS.186	IMP.335	11/8/16	CS	NA	NA	34	N	Y	Y	C	Hmong	Christianity	Refugee Camp	27.827	Refugee Camp	7	Never	Never	57	115	33.25	24.88	Normal	N	NA	6.173	NA	NA	NA		NA	Hmong1st	0.583333333	1stGen
+CS.056	IMP.096	6/4/16	CS	NA	NA	26	N	Y	N	HS	Hmong	Hmong Animism	Rural Village	4.099	Rural Village	23	Never	Never	58	104.4	32	21.82	Normal	Y	2	21.901	NA	NA	NA		NA	Hmong1st	0.551724138	1stGen
+CS.230	IMP.238	7/23/16	CS	NA	NA	26	N	N	N	HS	Hmong	Christianity	NA	17.542	Refugee Camp	2	Never	Never	61	118	31.5	22.29	Normal	Y	2.5	8.458	NA	NA	NA		NA	Hmong1st	0.516393443	1stGen
+CS.381	IMP.318	9/27/16	CS	NA	NA	31	N	N	NA	C	Hmong	Hmong Animism	Refugee Camp	28.756	Refugee Camp	0.25	Never	Weekly	60	117	34	22.85	Normal	Y	1	2.244	NA	NA	NA		NA	Hmong1st	0.566666667	1stGen
+CS.062	IMP.087	5/24/16	CS	NA	NA	20	Y	Y	N	C	Hmong	Hmong Animism	Rural Village	11.34	Rural Village	20	Never	Never	59	98	27	19.79	Normal	Y	0.8333	8.66	NA	NA	NA		NA	Hmong1st	0.457627119	1stGen
+CS.042	IMP.111	6/13/16	CS	NA	NA	27	N	Y	NA	C	Hmong	Christianity	Rural Village	15.455	Rural Village	1	Never	Never	62.4	135.2	36	24.41	Normal	Y	2.5	11.545	NA	NA	NA		NA	Hmong1st	0.576923077	1stGen
+CS.072	IMP.059	5/8/16	CS	NA	NA	30	N	N	Y	LHS	Hmong	Christianity	Rural Village	0.603	Rural Village	19	Never	Never	63	130	35	23.03	Normal	Y	3	29.397	NA	NA	NA		NA	Hmong1st	0.555555556	1stGen
+CS.050	IMP.084	5/23/16	CS	NA	NA	37	N	Y	Y	C	Hmong	Hmong Animism	Rural Village	2.408	Rural Village	20	Never	Never	60	120	30	23.43	Normal	Y	2	34.592	NA	NA	NA		NA	Hmong1st	0.5	1stGen
+CS.040	IMP.039	4/1/16	CS	NA	NA	19	N	N	NA	HS	Hmong	Hmong Animism	Rural Village	6.247	Rural Village	10	Never	Never	63.6	139.8	36	24.3	Normal	Y	5	12.753	NA	NA	NA		NA	Hmong1st	0.566037736	1stGen
+CS.171	IMP.102	6/7/16	CS	NA	NA	22	Y	Y	NA	C	Hmong	Hmong Animism	Rural Village	10.792	Rural Village	11	Never	Never	59	109.8	33.5	22.17	Normal	Y	2	11.208	NA	NA	NA		NA	Hmong1st	0.56779661	1stGen
+CS.388	IMP.290	8/23/16	CS	NA	NA	48	N	Y	NA	ESL	Hmong	Hmong Animism	Rural Village	29.647	Refugee Camp	9	Never	Weekly	57	112	34	24.23	Normal	Y	1	18.353	NA	NA	NA		NA	Hmong1st	0.596491228	1stGen
+CS.060	IMP.056	5/1/16	CS	NA	NA	51	N	N	N	G	Hmong	Christianity	Rural Village	9.334	Urban Dwelling	35	Never	Never	62	130	40	23.77	Normal	NA	NA	41.666	NA	NA	NA		NA	Hmong1st	0.64516129	1stGen
+CS.205	IMP.286	8/9/16	CS	NA	NA	23	N	N	NA	C	Hmong	Hmong Animism	Urban Dwelling	0	NA	NA	Never	Weekly	63	109.2	31.75	19.34	Normal	N	NA	NA	NA	NA	NA		NA	Hmong2nd	0.503968254	2ndGen
+CS.224	IMP.263	7/25/16	CS	NA	NA	32	N	N	N	C	Hmong	None	Urban Dwelling	0	NA	NA	Never	Monthly	59	115	31.5	23.22	Normal	N	NA	NA	NA	NA	NA		NA	Hmong2nd	0.533898305	2ndGen
+CS.375	IMP.313	9/15/16	CS	NA	NA	20	Y	Y	NA	C	Hmong	Hmong Animism	Urban Dwelling	0	NA	NA	Never	Never	61	123	33	23.24	Normal	N	NA	NA	NA	NA	NA		NA	Hmong2nd	0.540983607	2ndGen
+CS.232	IMP.168	7/14/16	CS	NA	NA	33	N	N	NA	C	Hmong	None	Urban Dwelling	0	NA	NA	Never	Weekly	69	169	37.5	24.95	Normal	N	NA	NA	NA	NA	NA		NA	Hmong2nd	0.543478261	2ndGen
+CS.380	IMP.292	8/31/16	CS	NA	NA	31	N	N	N	G	Hmong	None	Urban Dwelling	0	NA	NA	Never	Monthly	61	120	35	22.67	Normal	NA	NA	NA	NA	NA	NA		NA	Hmong2nd	0.573770492	2ndGen
+CS.128	IMP.334	11/10/16	CS	NA	NA	19	N	Y	Y	C	Hmong	Hmong Animism	Urban Dwelling	0	NA	NA	Never	Never	62	135.6	25	24.8	Normal	Y	NA	NA	NA	NA	NA		NA	Hmong2nd	0.403225806	2ndGen
+CS.376	IMP.310	9/20/16	CS	NA	NA	30	N	N	NA	C	Hmong	Hmong Animism	Urban Dwelling	0	NA	NA	Never	Weekly	62	130	35	23.77	Normal	NA	NA	NA	NA	NA	NA		NA	Hmong2nd	0.564516129	2ndGen
+CS.378	IMP.309	11/4/16	CS	NA	NA	29	N	N	NA	G	Hmong	Christianity	Urban Dwelling	0	NA	NA	Never	Weekly	60.5	107	30	20.55	Normal	NA	NA	NA	NA	NA	NA		NA	Hmong2nd	0.495867769	2ndGen
+CS.213	IMP.232	7/27/16	CS	NA	NA	18	Y	N	N	HS	Hmong	Christianity	Urban Dwelling	0	NA	NA	Never	Never	59	120	32	24.23	Normal	Y	0.08	NA	NA	NA	NA		NA	Hmong2nd	0.542372881	2ndGen
+CS.203	IMP.255	7/29/16	CS	NA	NA	26	N	N	N	C	Hmong	Hmong Animism	Urban Dwelling	0	NA	NA	Never	Monthly	64	140	36	24.03	Normal	N	NA	NA	NA	NA	NA		NA	Hmong2nd	0.5625	2ndGen
+CS.236	IMP.187	7/16/16	CS	NA	NA	29	N	N	NA	C	Hmong	Hmong Animism	Urban Dwelling	0	NA	NA	Never	Quit	57	100	34	21.64	Normal	Y	NA	NA	NA	NA	NA		NA	Hmong2nd	0.596491228	2ndGen
+CS.374	IMP.311	9/18/16	CS	NA	NA	24	N	N	NA	C	Hmong	Hmong Animism	Urban Dwelling	0	NA	NA	Quit	Weekly	63	115	33	20.37	Normal	N	NA	NA	NA	NA	NA		NA	Hmong2nd	0.523809524	2ndGen
+CS.126	IMP.333	11/8/16	CS	NA	NA	19	N	Y	NA	C	Hmong	Hmong Animism	Urban Dwelling	0	NA	NA	Never	Never	61	132	34.5	24.94	Normal	Y	NA	NA	NA	NA	NA		NA	Hmong2nd	0.56557377	2ndGen
+CS.125	IMP.331	11/10/16	CS	NA	NA	21	N	Y	NA	C	Hmong	Hmong Animism	Urban Dwelling	0	NA	NA	Never	Never	61	106.8	32	20.18	Normal	N	NA	NA	NA	NA	NA		NA	Hmong2nd	0.524590164	2ndGen
+CS.302	IMP.215	7/22/16	CS	NA	NA	21	Y	Y	NA	C	Hmong	Christianity	Urban Dwelling	0	NA	NA	Never	Never	62	115	34	21.03	Normal	N	NA	NA	NA	NA	NA		NA	Hmong2nd	0.548387097	2ndGen
+CS.372	IMP.368	1/26/17	HC	NA	NA	18	Y	N	N	C	Caucasian	Christianity	Urban Dwelling	NA	NA	NA	Never	Monthly	67	137	32	21.45	Normal	Y	2	NA	NA	NA	NA		NA	Control	0.47761194	Control
+CS.386	IMP.375	2/14/17	HC	NA	NA	19	N	N	Y	HS	Caucasian	Christianity	Urban Dwelling	NA	NA	NA	Never	Never	67.5	133.6	29.5	20.61	Normal	N	NA	NA	NA	NA	NA		NA	Control	0.437037037	Control
+CS.395	IMP.378	2/16/17	HC	NA	NA	18	Y	N	NA	C	Caucasian	Christianity	Urban Dwelling	NA	NA	NA	Never	Occasionally	69.5	151.6	34	22.06	Normal	Y	NA	NA	NA	NA	NA		NA	Control	0.489208633	Control
+CS.214	IMP.358	12/24/16	HC	NA	NA	26	N	N	NA	G	Caucasian	Christianity	Urban Dwelling	NA	NA	NA	Never	Monthly	68	136	32	20.68	Normal	NA	NA	NA	NA	NA	NA		NA	Control	0.470588235	Control
+CS.177	IMP.344	12/7/16	HC	NA	NA	24	N	N	NA	G	Caucasian	Christianity	Urban Dwelling	NA	NA	NA	Never	Monthly	65.5	129	31.5	21.14	Normal	Y	NA	NA	NA	NA	NA		NA	Control	0.480916031	Control
+CS.254	IMP.367	2/2/17	HC	NA	NA	22	N	N	NA	G	Caucasian	Christianity	Urban Dwelling	NA	NA	NA	Never	Weekly	65	130.4	32.5	21.7	Normal	N	NA	NA	NA	NA	NA		NA	Control	0.5	Control
+CS.268	IMP.343	12/7/16	HC	NA	NA	41	N	N	N	G	Caucasian	None	Urban Dwelling	NA	NA	NA	Never	Weekly	63.5	119.6	31	20.85	Normal	NA	NA	NA	NA	NA	NA		NA	Control	0.488188976	Control
+CS.348	IMP.366	1/26/17	HC	NA	NA	26	N	N	NA	G	Caucasian	None	Rural Village	NA	NA	NA	Never	Monthly	65	99	31	16.47	Normal	Y	2	NA	NA	NA	NA		NA	Control	0.476923077	Control
+CS.369	IMP.354	1/11/17	HC	NA	NA	34	N	N	Y	G	Caucasian	Christianity	Urban Dwelling	NA	NA	NA	Never	Weekly	65.5	130	30	21.3	Normal	Y	1	NA	NA	NA	NA		NA	Control	0.458015267	Control
+CS.147	IMP.369	1/13/17	HC	NA	NA	25	N	N	N	G	Caucasian	None	Urban Dwelling	NA	NA	NA	Never	Weekly	63	141	36	24.97	Normal	NA	NA	NA	NA	NA	NA		NA	Control	0.571428571	Control
+CS.166	IMP.370	1/26/17	HC	NA	NA	43	N	N	NA	G	Caucasian	Buddhism	Urban Dwelling	NA	NA	NA	Quit	Quit	67.5	140.6	34	21.69	Normal	N	NA	NA	NA	NA	NA		NA	Control	0.503703704	Control
+CS.323	IMP.336	11/30/16	HC	NA	NA	23	N	Y	NA	G	Caucasian	Christianity	Urban Dwelling	NA	NA	NA	Never	Weekly	65.75	149.6	35.5	24.33	Normal	Y	2	NA	NA	NA	NA		NA	Control	0.539923954	Control
+CS.349	IMP.372	1/27/17	HC	NA	NA	20	N	N	N	C	Caucasian	None	Urban Dwelling	NA	NA	NA	Never	Monthly	66.5	123.4	31.5	19.62	Normal	Y	NA	NA	NA	NA	NA		NA	Control	0.473684211	Control
+CS.178	IMP.353	12/22/16	HC	NA	NA	63	N	N	N	G	Caucasian	Universalism	Urban Dwelling	NA	NA	NA	Never	Monthly	68	135	31	20.52	Normal	Y	1	NA	NA	NA	NA		NA	Control	0.455882353	Control
+CS.389	IMP.371	1/27/17	HC	NA	NA	23	N	N	NA	G	Caucasian	Christianity	Urban Dwelling	NA	NA	NA	Never	Never	62.5	109.6	28.5	19.72	Normal	Y	NA	NA	NA	NA	NA		NA	Control	0.456	Control
+T.CS.041	T.CS.041	8/16/16	CS	NA	NA	24	NA	NA	NA	NA	Hmong	Hmong Animism	Rural Village	NA	Rural Village	4	Never	Never	59.06	91.71	27.95	18.48	Normal	Y	NA	NA	NA	NA	NA		NA	HmongThai	0.473247545	Thai
+T.CS.085	T.CS.085	8/16/16	CS	NA	NA	31	NA	NA	NA	C	Hmong	Hmong Animism	Rural Village	NA	Rural Village	6	Never	Never	58.66	121.25	36.22	24.77	Normal	Y	NA	NA	NA	NA	NA		NA	HmongThai	0.617456529	Thai
+T.CS.050	T.CS.050	8/16/16	CS	NA	NA	48	NA	NA	NA	NA	Hmong	Hmong Animism	Rural Village	NA	Rural Village	37	Never	Never	59.06	114.2	34.65	23.02	Normal	Y	NA	NA	NA	NA	NA		NA	HmongThai	0.5866915	Thai
+T.CS.057	T.CS.057	8/16/16	CS	NA	NA	58	NA	NA	NA	NA	Hmong	Hmong Animism	Rural Village	NA	Rural Village	39	Never	Never	59.84	109.57	33.86	21.51	Normal	Y	3	NA	NA	NA	NA		NA	HmongThai	0.565842246	Thai
+T.CS.067	T.CS.067	8/16/16	CS	NA	NA	24	NA	NA	NA	LHS	Hmong	Hmong Animism	Rural Village	NA	Rural Village	5	Never	Never	57.09	101.41	31.1	21.87	Normal	Y	2	NA	NA	NA	NA		NA	HmongThai	0.544753897	Thai
+T.CS.058	T.CS.058	8/16/16	CS	NA	NA	39	NA	NA	NA	NA	Hmong	Hmong Animism	Rural Village	NA	Rural Village	39	Never	Never	55.12	100.31	34.25	23.21	Normal	Y	2	NA	NA	NA	NA		NA	HmongThai	0.621371553	Thai
+T.CS.029	T.CS.029	8/16/16	CS	NA	NA	57	NA	NA	NA	NA	Hmong	Hmong Animism	Rural Village	NA	Rural Village	45	Never	Never	57.48	90.83	30.91	19.33	Normal	Y	NA	NA	NA	NA	NA		NA	HmongThai	0.537752262	Thai
+T.CS.080	T.CS.080	8/16/16	CS	NA	NA	25	NA	NA	NA	LHS	Hmong	Hmong Animism	Rural Village	NA	Rural Village	6.5	Never	Never	57.09	93.48	30.71	20.16	Normal	Y	1	NA	NA	NA	NA		NA	HmongThai	0.537922578	Thai
+T.CS.034	T.CS.034	8/16/16	CS	NA	NA	55	NA	NA	NA	NA	Hmong	Christianity	Refugee Camp	NA	Rural Village	30	Never	Never	55.12	105.82	32.28	24.49	Normal	Y	NA	NA	NA	NA	NA		NA	HmongThai	0.58563135	Thai
+T.CS.072	T.CS.072	8/16/16	CS	NA	NA	36	NA	NA	NA	LHS	Hmong	Hmong Animism	Rural Village	NA	Rural Village	36	Never	Never	59.06	116.84	33.07	23.55	Normal	Y	NA	NA	NA	NA	NA		NA	HmongThai	0.559939045	Thai
+T.CS.046	T.CS.046	8/16/16	CS	NA	NA	29	NA	NA	NA	HS	Hmong	Christianity	Rural Village	NA	Rural Village	38.25	Never	Never	58.27	102.07	29.53	21.13	Normal	Y	NA	NA	NA	NA	NA		NA	HmongThai	0.506778788	Thai
+T.CS.025	T.CS.025	8/16/16	CS	NA	NA	50	NA	NA	NA	LHS	Hmong	Christianity	Rural Village	NA	Rural Village	50	Never	Never	59.84	124.12	34.65	24.37	Normal	Y	1	NA	NA	NA	NA		NA	HmongThai	0.579044118	Thai
+T.CS.071	T.CS.071	8/16/16	CS	NA	NA	33	NA	NA	NA	C	Hmong	Hmong Animism	Rural Village	NA	Rural Village	6.083	Never	Quit	57.09	99.21	31.5	21.4	Normal	Y	2	NA	NA	NA	NA		NA	HmongThai	0.551760378	Thai
+T.CS.082	T.CS.082	8/16/16	CS	NA	NA	24	NA	NA	NA	HS	Hmong	Christianity	Rural Village	NA	Rural Village	3.83	Never	Never	60.24	96.56	29.92	18.71	Normal	Y	NA	NA	NA	NA	NA		NA	HmongThai	0.496679947	Thai
+T.CS.079	T.CS.079	8/16/16	CS	NA	NA	42	NA	NA	NA	NA	Hmong	Hmong Animism	Rural Village	NA	Rural Village	27	Never	Never	58.27	113.54	34.65	23.51	Normal	Y	2	NA	NA	NA	NA		NA	HmongThai	0.594645615	Thai
+T.CS.098	T.CS.098	9/20/16	CS	NA	NA	51	NA	NA	NA	LHS	Karen	Christianity	Rural Village	NA	Refugee Camp	31	Never	Never	61.3	132.28	34.6	24.75	Normal	Y	1	NA	NA	NA	NA		NA	KarenThai	0.564437194	Thai
+T.CS.115	T.CS.115	8/9/16	CS	NA	NA	22	NA	NA	NA	HS	Karen	Buddhism	Rural Village	NA	Refugee Camp	6	Never	Never	63.3	114.64	30.7	20.11	Normal	Y	2	NA	NA	NA	NA		NA	KarenThai	0.484992101	Thai
+T.CS.153	T.CS.153	8/19/16	CS	NA	NA	24	NA	NA	NA	G	Karen	Buddhism	Rural Village	NA	Refugee Camp	10	Never	Never	59.5	99.21	26.4	19.7	Normal	Y	4	NA	NA	NA	NA		NA	KarenThai	0.443697479	Thai
+T.CS.180	T.CS.180	8/22/16	CS	NA	NA	48	NA	NA	NA	G	Karen	Buddhism	Rural Village	NA	Refugee Camp	8	Never	Never	61.7	94.8	28.1	17.51	Normal	Y	2	NA	NA	NA	NA		NA	KarenThai	0.455429498	Thai
+T.CS.130	T.CS.130	8/11/16	CS	NA	NA	18	NA	NA	NA	HS	Karen	Christianity	Rural Village	NA	Refugee Camp	0.17	Never	Never	61.8	116.84	28.7	21.51	Normal	Y	2.25	NA	NA	NA	NA		NA	KarenThai	0.464401294	Thai
+T.CS.107	T.CS.107	8/9/16	CS	NA	NA	19	NA	NA	NA	LHS	Karen	Buddhism	Rural Village	NA	Refugee Camp	0.17	Never	Never	57.4	88.18	26.5	18.81	Normal	Y	2	NA	NA	NA	NA		NA	KarenThai	0.461672474	Thai
+T.CS.114	T.CS.114	8/10/16	CS	NA	NA	55	NA	NA	NA	HS	Karen	Christianity	Rural Village	NA	Refugee Camp	31	Never	Never	56.3	105.82	33.5	23.47	Normal	Y	1	NA	NA	NA	NA		NA	KarenThai	0.595026643	Thai
+T.CS.117	T.CS.117	8/10/16	CS	NA	NA	39	NA	NA	NA	NONE	Karen	Buddhism	Rural Village	NA	Refugee Camp	8	Never	Never	59.7	116.84	31.1	23.05	Normal	N	NA	NA	NA	NA	NA		NA	KarenThai	0.520938023	Thai
+T.CS.160	T.CS.160	8/20/16	CS	NA	NA	43	NA	NA	NA	LHS	Karen	Christianity	Rural Village	NA	Refugee Camp	7	Never	Never	60.1	125.66	30.3	24.46	Normal	Y	1	NA	NA	NA	NA		NA	KarenThai	0.504159734	Thai
+T.CS.106	T.CS.106	8/9/16	CS	NA	NA	39	NA	NA	NA	NONE	Karen	Buddhism	Rural Village	NA	Refugee Camp	8	Daily	Never	61.9	94.8	27.4	17.39	Normal	Y	1	NA	NA	NA	NA		NA	KarenThai	0.442649435	Thai
+T.CS.129	T.CS.129	8/11/16	CS	NA	NA	18	NA	NA	NA	HS	Karen	Christianity	Rural Village	NA	Refugee Camp	0.33	Never	Never	58.3	92.59	26.6	19.15	Normal	Y	1.5	NA	NA	NA	NA		NA	KarenThai	0.45626072	Thai
+T.CS.159	T.CS.159	8/20/16	CS	NA	NA	43	NA	NA	NA	LHS	Karen	Christianity	Rural Village	NA	Refugee Camp	5	Never	Never	60.7	121.25	31.9	23.13	Normal	Y	1.5	NA	NA	NA	NA		NA	KarenThai	0.52553542	Thai
+T.CS.104	T.CS.104	8/9/16	CS	NA	NA	38	NA	NA	NA	LHS	Karen	Christianity	Rural Village	NA	Refugee Camp	26	Never	Never	57.7	103.62	30.3	21.88	Normal	Y	2	NA	NA	NA	NA		NA	KarenThai	0.525129983	Thai
+T.CS.100	T.CS.100	8/20/16	CS	NA	NA	33	NA	NA	NA	HS	Karen	Christianity	Rural Village	NA	Refugee Camp	10	Never	Never	57.3	112.44	29.1	24.08	Normal	Y	1.5	NA	NA	NA	NA		NA	KarenThai	0.507853403	Thai
+T.CS.156	T.CS.156	8/20/16	CS	NA	NA	28	NA	NA	NA	LHS	Karen	Christianity	Rural Village	NA	Refugee Camp	5.83	Never	Never	58.7	116.84	27.6	23.84	Normal	Y	1.5	NA	NA	NA	NA		NA	KarenThai	0.470187394	Thai
+CS.087	IMP.068	5/21/16	CS	NA	NA	36	N	Y	Y	ESL	Karen	Christianity	Rural Village	1.559	Refugee Camp	14	Never	Never	62.5	217.8	44.5	39.2	Obese	Y	1	34.441	NA	NA	NA		NA	Karen1st	0.712	1stGen
+L.024.M1	IMP.110	6/21/16	L	NA	1	42	N	Y	Y	ESL	Karen	Christianity	Rural Village	0.014	Refugee Camp	10	Never	Occasionally	57.1	158.8	40.7	34.24	Obese	Y	1.5	41.986	164	35.36	42	11/8/16	1	Karen1st	0.712784588	1stGen
+L.034.M1	IMP.305	9/16/16	L	NA	1	34	NA	NA	NA	LHS	Karen	Christianity	Rural Village	0.003	Refugee Camp	20	Never	Never	61.1	163.14	36.2	30.72	Obese	Y	2	33.997	152.4	28.7	38.5	3/5/17	1	Karen1st	0.592471358	1stGen
+CS.082	IMP.119	6/27/16	CS	NA	NA	28	N	Y	Y	NA	Karen	Christianity	Rural Village	4.482	Refugee Camp	8	Never	Never	59.5	155.6	38.5	30.9	Obese	Y	2	23.518	NA	NA	NA		NA	Karen1st	0.647058824	1stGen
+CS.237	IMP.145	7/9/16	CS	NA	NA	48	N	Y	Y	ESL	Karen	Christianity	Rural Village	2.068	Refugee Camp	14	Never	Never	48.4	114.6	32	34.39	Obese	Y	2	45.932	NA	NA	NA		NA	Karen1st	0.661157025	1stGen
+CS.015	IMP.015	2/28/16	CS	NA	NA	34	N	Y	Y	ESL	Karen	Christianity	Rural Village	7.493	Refugee Camp	NA	BN Daily	Never	62.5	167.6	39	30.16	Obese	Y	3	26.507	NA	NA	NA		NA	Karen1st	0.624	1stGen
+CS.103	IMP.127	6/25/16	CS	NA	NA	44	Y	Y	Y	NA	Karen	Christianity	Rural Village	6.482	Refugee Camp	10	Never	Never	58	161	40	33.65	Obese	Y	2	37.518	NA	NA	NA		NA	Karen1st	0.689655172	1stGen
+CS.085	IMP.070	5/23/16	CS	NA	NA	52	N	Y	Y	ESL	Karen	Christianity	Rural Village	6.386	Refugee Camp	23	Never	Never	61.5	173.4	40	32.23	Obese	Y	2	45.614	NA	NA	NA		NA	Karen1st	0.650406504	1stGen
+CS.110	IMP.120	6/28/16	CS	NA	NA	49	Y	Y	Y	ESL	Karen	Christianity	Rural Village	6.044	Refugee Camp	10	Never	Never	58.5	147.4	35.5	30.28	Obese	Y	3	42.956	NA	NA	NA		NA	Karen1st	0.606837607	1stGen
+CS.238	IMP.149	7/9/16	CS	NA	NA	33	N	Y	Y	ESL	Karen	Christianity	Rural Village	2.655	Refugee Camp	13	Never	Never	61	175.8	40.5	33.21	Obese	Y	2	30.345	NA	NA	NA		NA	Karen1st	0.663934426	1stGen
+CS.088	IMP.063	5/22/16	CS	NA	NA	57	N	N	N	ESL	Karen	Christianity	Rural Village	1.54	Refugee Camp	16	Quit	Quit	63	172.8	39.5	30.61	Obese	Y	NA	55.46	NA	NA	NA		NA	Karen1st	0.626984127	1stGen
+CS.241	IMP.148	7/8/16	CS	NA	NA	25	N	Y	N	ESL	Karen	Christianity	Rural Village	3.321	Refugee Camp	16	Never	Never	57.3	140.8	37	30.15	Obese	N	NA	21.679	NA	NA	NA		NA	Karen1st	0.645724258	1stGen
+CS.246	IMP.323	9/30/16	CS	NA	NA	38	N	Y	Y	ESL	Karen	Christianity	Rural Village	3.803	Refugee Camp	12	Never	Never	56.66	154	40	33.72	Obese	Y	3	34.197	NA	NA	NA		NA	Karen1st	0.705965408	1stGen
+CS.356	IMP.298	8/14/16	CS	NA	NA	55	N	Y	NA	ESL	Karen	Christianity	Rural Village	0.901	Refugee Camp	10	Never	Weekly	52.7	137.8	37	34.88	Obese	Y	3	54.099	NA	NA	NA		NA	Karen1st	0.702087287	1stGen
+CS.006	IMP.006	2/10/16	CS	NA	NA	22	N	Y	NA	ESL	Karen	Christianity	Refugee Camp	4.699	Refugee Camp	10	Never	Never	59.75	156.6	37.5	30.84	Obese	Y	2	17.301	NA	NA	NA		NA	Karen1st	0.627615063	1stGen
+CS.113	IMP.153	7/9/16	CS	NA	NA	41	N	N	Y	LHS	Hmong	Christianity	Rural Village	1.863	Rural Village	8	Never	Never	57.5	164.2	39	34.91	Obese	Y	2	39.137	NA	NA	NA		NA	Hmong1st	0.67826087	1stGen
+CS.387	IMP.319	9/22/16	CS	NA	NA	24	N	N	NA	HS	Hmong	Hmong Animism	Rural Village	24.066	Rural Village	1	Never	Occasionally	62	212.8	49	38.92	Obese	Y	NA	-0.066	NA	NA	NA		NA	Hmong1st	0.790322581	1stGen
+CS.164	IMP.132	7/2/16	CS	NA	NA	45	N	N	N	HS	Hmong	Christianity	Rural Village	37.942	Refugee Camp	1	Never	Never	60	172.2	38	33.63	Obese	Y	2	7.058	NA	NA	NA		NA	Hmong1st	0.633333333	1stGen
+CS.191	IMP.198	7/22/16	CS	NA	NA	30	N	Y	NA	NA	Hmong	Hmong Animism	Rural Village	3.321	Rural Village	21	Never	Never	60.5	193.6	45	37.18	Obese	Y	2	26.679	NA	NA	NA		NA	Hmong1st	0.743801653	1stGen
+CS.363	IMP.224	7/29/16	CS	NA	NA	41	N	N	Y	G	Hmong	Christianity	Rural Village	37.586	Refugee Camp	Uknown	Never	Occasionally	62	184	41	33.65	Obese	Y	1	3.414	NA	NA	NA		NA	Hmong1st	0.661290323	1stGen
+CS.308.0	IMP.181	7/16/16	CS	NA	NA	38	N	N	N	C	Hmong	Hmong Animism	Refugee Camp	36.274	Refugee Camp	1.5	Never	Never	58.5	210	44	43.14	Obese	Y	2	1.726	NA	NA	NA		NA	Hmong1st	0.752136752	1stGen
+CS.338	IMP.270	7/24/16	CS	NA	NA	58	N	N	Y	LHS	Hmong	Hmong Animism	Rural Village	36.578	Refugee Camp	7	Never	Never	55.8	134.2	35	30.3	Obese	Y	0.66	21.422	NA	NA	NA		NA	Hmong1st	0.627240143	1stGen
+CS.234	IMP.220	7/17/16	CS	NA	NA	27	N	N	N	C	Hmong	Hmong Animism	Refugee Camp	25.553	Refugee Camp	2	Never	Monthly	62	182	40.5	33.28	Obese	Y	NA	1.447	NA	NA	NA		NA	Hmong1st	0.653225806	1stGen
+CS.304	IMP.254	7/28/16	CS	NA	NA	64	Y	Y	N	LHS	Hmong	Hmong Animism	Rural Village	36.893	Refugee Camp	3	Never	Never	52	118	37	30.68	Obese	Y	NA	27.107	NA	NA	NA		NA	Hmong1st	0.711538462	1stGen
+CS.364	IMP.223	7/27/16	CS	NA	NA	43	N	N	Y	C	Hmong	Christianity	Rural Village	38.586	Refugee Camp	1	Never	Never	58	158.2	40	33.06	Obese		NA	4.414	NA	NA	NA		NA	Hmong1st	0.689655172	1stGen
+CS.207	IMP.258	7/27/16	CS	NA	NA	39	N	N	Y	HS	Hmong	Hmong Animism	Rural Village	36.575	Refugee Camp	36	Never	Never	59	155	45	31.3	Obese	Y	1	2.425	NA	NA	NA		NA	Hmong1st	0.762711864	1stGen
+CS.311	IMP.180	7/16/16	CS	NA	NA	53	N	Y	Y	NA	Hmong	Hmong Animism	Rural Village	36.285	Refugee Camp	9	Never	Never	57.5	142	41.5	30.19	Obese	Y	1	16.715	NA	NA	NA		NA	Hmong1st	0.72173913	1stGen
+CS.187	IMP.229	7/25/16	CS	NA	NA	41	N	N	N	G	Hmong	Christianity	Refugee Camp	37.586	Refugee Camp	3	Never	Never	58.25	165.5	39.5	34.29	Obese	Y	NA	3.414	NA	NA	NA		NA	Hmong1st	0.678111588	1stGen
+CS.274	IMP.236	7/25/16	CS	NA	NA	58	N	Y	NA	NONE	Hmong	Hmong Animism	Rural Village	28.151	Refugee Camp	0.25	Never	Never	56.75	148.8	41	32.48	Obese	Y	1	29.849	NA	NA	NA		NA	Hmong1st	0.72246696	1stGen
+CS.347.0	IMP.134	7/23/16	CS	NA	NA	61	N	Y	NA	ESL	Hmong	Hmong Animism	Rural Village	36.551	Refugee Camp	1	Never	Never	56	142	33	31.83	Obese	N	NA	24.449	NA	NA	NA		NA	Hmong1st	0.589285714	1stGen
+CS.227	IMP.169	7/13/16	CS	NA	NA	20	Y	N	NA	C	Hmong	Christianity	Urban Dwelling	0	NA	NA	Never	Never	62	178.8	39.5	32.7	Obese	N	NA	NA	NA	NA	NA		NA	Hmong2nd	0.637096774	2ndGen
+CS.318	IMP.247	7/31/16	CS	NA	NA	19	Y	N	NA	C	Hmong	Christianity	Urban Dwelling	0	NA	NA	Never	Never	57	142.2	36.5	30.77	Obese	NA	NA	NA	NA	NA	NA		NA	Hmong2nd	0.640350877	2ndGen
+CS.080	IMP.155	7/11/16	CS	NA	NA	23	N	N	N	C	Hmong	None	Urban Dwelling	0	NA	NA	Never	Occasionally	61.25	181	38	33.92	Obese	N	NA	NA	NA	NA	NA		NA	Hmong2nd	0.620408163	2ndGen
+CS.152	IMP.262	7/27/16	CS	NA	NA	27	N	N	N	G	Hmong	Hmong Animism	Urban Dwelling	0	NA	NA	Never	Monthly	61	175	39.5	33.06	Obese	N	NA	NA	NA	NA	NA		NA	Hmong2nd	0.647540984	2ndGen
+CS.343	IMP.211	7/21/16	CS	NA	NA	19	N	Y	N	LHS	Hmong	Hmong Animism	Urban Dwelling	0	NA	NA	Never	Never	62.5	192.4	42	34.63	Obese	N	NA	NA	NA	NA	NA		NA	Hmong2nd	0.672	2ndGen
+CS.202	IMP.280	8/4/16	CS	NA	NA	28	N	Y	NA	C	Hmong	None	Urban Dwelling	0	NA	NA	Daily	Monthly	57.5	190.8	46	40.57	Obese	N	NA	NA	NA	NA	NA		NA	Hmong2nd	0.8	2ndGen
+CS.158	IMP.165	7/13/16	CS	NA	NA	23	N	N	NA	C	Hmong	Hmong Animism	Urban Dwelling	0	NA	NA	Never	Never	62	167	38.5	30.54	Obese	N	NA	NA	NA	NA	NA		NA	Hmong2nd	0.620967742	2ndGen
+CS.361	IMP.253	8/8/16	CS	NA	NA	32	N	N	Y	C	Hmong	Christianity	Urban Dwelling	0	NA	NA	Never	Occasionally	61	175.8	42	33.21	Obese	N	NA	NA	NA	NA	NA		NA	Hmong2nd	0.68852459	2ndGen
+CS.194	IMP.242	7/27/16	CS	NA	NA	25	N	N	NA	C	Hmong	Hmong Animism	Urban Dwelling	0	NA	NA	Never	Weekly	64	223.8	41.5	38.41	Obese	Y	2	NA	NA	NA	NA		NA	Hmong2nd	0.6484375	2ndGen
+CS.223	IMP.261	7/23/16	CS	NA	NA	31	N	N	NA	C	Hmong	Hmong Animism	Urban Dwelling	0	NA	NA	Never	Weekly	63	192	42.5	34.01	Obese	N	NA	NA	NA	NA	NA		NA	Hmong2nd	0.674603175	2ndGen
+CS.112	IMP.130	7/4/16	CS	NA	NA	29	N	N	N	C	Hmong	Christianity	Urban Dwelling	0	NA	NA	Never	Never	62	193.4	40.5	35.37	Obese	Y	1	NA	NA	NA	NA		NA	Hmong2nd	0.653225806	2ndGen
+CS.322	IMP.246	7/30/16	CS	NA	NA	25	N	N	Y	C	Hmong	Christianity	Urban Dwelling	0	NA	NA	Occasionally	Monthly	59.5	152	36	30.18	Obese	N	NA	NA	NA	NA	NA		NA	Hmong2nd	0.605042017	2ndGen
+CS.319	IMP.249	7/30/16	CS	NA	NA	18	Y	N	N	HS	Hmong	Christianity	Urban Dwelling	0	NA	NA	Never	Never	65	221.8	44	36.91	Obese	Y	NA	NA	NA	NA	NA		NA	Hmong2nd	0.676923077	2ndGen
+CS.320	IMP.250	7/31/16	CS	NA	NA	21	Y	N	N	HS	Hmong	Christianity	Urban Dwelling	0	NA	NA	Never	Monthly	62.5	173.4	41	31.21	Obese	N	NA	NA	NA	NA	NA		NA	Hmong2nd	0.656	2ndGen
+CS.321	IMP.248	7/31/16	CS	NA	NA	20	Y	Y	NA	HS	Hmong	Christianity	Urban Dwelling	0	NA	NA	Never	Never	59.5	209.6	46	41.62	Obese	N	NA	NA	NA	NA	NA		NA	Hmong2nd	0.773109244	2ndGen
+CS.390	IMP.374	2/14/17	HC	NA	NA	64	N	N	N	G	Caucasian	None	NA	NA	NA	NA	Quit	Monthly	61	269.4	55	50.9	Obese	NA	NA	NA	NA	NA	NA		NA	Control	0.901639344	Control
+CS.145	IMP.363	1/11/17	HC	NA	NA	50	N	N	N	C	Caucasian	None	Urban Dwelling	NA	NA	NA	Quit	Occasionally	63	187.2	38	33.16	Obese	N	NA	NA	NA	NA	NA		NA	Control	0.603174603	Control
+CS.370	IMP.355	12/23/16	HC	NA	NA	56	N	N	N	G	Caucasian	None	Urban Dwelling	NA	NA	NA	Quit	Weekly	62.5	182	40	32.75	Obese	N	NA	NA	NA	NA	NA		NA	Control	0.64	Control
+CS.255	IMP.360	12/28/16	HC	NA	NA	55	N	N	NA	C	Caucasian	Universalism	Urban Dwelling	NA	NA	NA	Never	Monthly	67.5	200	45	30.86	Obese	N	NA	NA	NA	NA	NA		NA	Control	0.666666667	Control
+CS.326	IMP.339	11/28/16	HC	NA	NA	61	N	N	NA	C	Caucasian	None	Urban Dwelling	NA	NA	NA	Quit	Occasionally	61.5	181	43	33.64	Obese	N	NA	NA	NA	NA	NA		NA	Control	0.699186992	Control
+CS.262	IMP.346	12/14/16	HC	NA	NA	27	N	N	NA	G	Caucasian	Christianity	Urban Dwelling	NA	NA	NA	Never	Occasionally	68.5	235	45.5	35.21	Obese	Y	NA	NA	NA	NA	NA		NA	Control	0.664233577	Control
+CS.393	IMP.377	2/22/17	HC	NA	NA	45	N	N	NA	C	Caucasian	Christianity	Urban Dwelling	NA	NA	NA	Never	Occasionally	66.5	289.8	48	46.07	Obese	N	NA	NA	NA	NA	NA		NA	Control	0.721804511	Control
+CS.253	IMP.352	12/22/16	HC	NA	NA	38	N	Y	Y	C	Caucasian	Christianity	Urban Dwelling	NA	NA	NA	Never	Never	61	174	40	32.87	Obese	NA	NA	NA	NA	NA	NA		NA	Control	0.655737705	Control
+CS.270	IMP.337	11/30/16	HC	NA	NA	28	N	N	NA	G	Caucasian	Catholic	Urban Dwelling	NA	NA	NA	Never	Weekly	67	276.8	47	43.35	Obese	NA	NA	NA	NA	NA	NA		NA	Control	0.701492537	Control
+T.CS.036	T.CS.036	8/16/16	CS	NA	NA	49	NA	NA	NA	NA	Hmong	Hmong Animism	Rural Village	NA	Rural Village	25.33	Never	Never	55.12	135.58	38.19	31.37	Obese	Y	NA	NA	NA	NA	NA		NA	HmongThai	0.692851959	Thai
+T.CS.049	T.CS.049	8/16/16	CS	NA	NA	46	NA	NA	NA	LHS	Hmong	Hmong Animism	Rural Village	NA	Rural Village	46	Never	Never	57.68	175.71	41.34	37.13	Obese	Y	NA	NA	NA	NA	NA		NA	HmongThai	0.716712899	Thai
+T.CS.064	T.CS.064	8/16/16	CS	NA	NA	40	NA	NA	NA	NA	Hmong	Hmong Animism	Rural Village	NA	Rural Village	24	Never	Monthly	59.06	159.39	39.37	32.12	Obese	Y	NA	NA	NA	NA	NA		NA	HmongThai	0.666610227	Thai
+T.CS.055	T.CS.055	8/16/16	CS	NA	NA	55	NA	NA	NA	NA	Hmong	Hmong Animism	Rural Village	NA	Rural Village	42	Never	Never	55.31	183.64	50.79	42.2	Obese	Y	3	NA	NA	NA	NA		NA	HmongThai	0.918278792	Thai
+T.CS.066	T.CS.066	8/16/16	CS	NA	NA	43	NA	NA	NA	LHS	Hmong	Hmong Animism	Rural Village	NA	Rural Village	43.16	Never	Never	57.09	149.91	37.8	32.33	Obese	Y	2	NA	NA	NA	NA		NA	HmongThai	0.662112454	Thai
+T.CS.031	T.CS.031	8/16/16	CS	NA	NA	53	NA	NA	NA	NA	Hmong	Hmong Animism	Rural Village	NA	Rural Village	50	Never	Never	59.06	154.54	38.58	31.15	Obese	Y	NA	NA	NA	NA	NA		NA	HmongThai	0.653233999	Thai
+T.CS.026	T.CS.026	8/16/16	CS	NA	NA	64	NA	NA	NA	NA	Hmong	Christianity	Rural Village	NA	Rural Village	50	Never	Monthly	57.09	139.55	38.39	30.1	Obese	Y	NA	NA	NA	NA	NA		NA	HmongThai	0.672447013	Thai
+T.CS.043	T.CS.043	8/16/16	CS	NA	NA	38	NA	NA	NA	NA	Hmong	Hmong Animism	Rural Village	NA	Rural Village	18	Never	Never	55.91	143.08	37.01	32.18	Obese	Y	NA	NA	NA	NA	NA		NA	HmongThai	0.661956716	Thai
+T.CS.061	T.CS.061	8/16/16	CS	NA	NA	51	NA	NA	NA	LHS	Hmong	Hmong Animism	Rural Village	NA	Rural Village	54	Never	Never	59.06	156.53	40.16	31.55	Obese	Y	2	NA	NA	NA	NA		NA	HmongThai	0.679986454	Thai
+T.CS.008	T.CS.008	8/16/16	CS	NA	NA	48	NA	NA	NA	NA	Hmong	Hmong Animism	Rural Village	NA	Rural Village	48	Never	Never	56.3	146.61	38.58	32.52	Obese	Y	2	NA	NA	NA	NA		NA	HmongThai	0.685257549	Thai
+TFS.020	T.FS.CS.020	8/16/16	CS	NA	NA	31	NA	NA	NA	LHS	Hmong	Hmong Animism	Rural Village	NA	Rural Village	15	Never	Quit	58.27	153.44	36.42	31.77	Obese	Y	NA	NA	NA	NA	NA		NA	HmongThai	0.625021452	Thai
+TFS.027	T.FS.CS.027	8/16/16	CS	NA	NA	22	NA	NA	NA	LHS	Hmong	Hmong Animism	Rural Village	NA	Rural Village	7	Never	Monthly	59.06	167.55	41.93	33.77	Obese	Y	1.5	NA	NA	NA	NA		NA	HmongThai	0.709955977	Thai
+T.CS.045	T.CS.045	8/16/16	CS	NA	NA	54	NA	NA	NA	NA	Hmong	Hmong Animism	Rural Village	NA	Rural Village	30	Never	Never	60.63	163.14	42.91	31.2	Obese	Y	NA	NA	NA	NA	NA		NA	HmongThai	0.707735444	Thai
+TFS.025	T.FS.CS.025	8/16/16	CS	NA	NA	40	NA	NA	NA	LHS	Hmong	Christianity	Rural Village	NA	Rural Village	28	Never	Never	57.09	166.45	42.13	35.9	Obese	Y	NA	NA	NA	NA	NA		NA	HmongThai	0.737957611	Thai
+TFS.021	T.FS.CS.021	8/16/16	CS	NA	NA	30	NA	NA	NA	LHS	Hmong	Hmong Animism	Rural Village	NA	Rural Village	10	Never	Quit	57.09	141.1	36	30.43	Obese	Y	NA	NA	NA	NA	NA		NA	HmongThai	0.63058329	Thai
+T.CS.109	T.CS.109	8/9/16	CS	NA	NA	47	NA	NA	NA	NONE	Karen	Buddhism	Rural Village	NA	Refugee Camp	9	Never	Never	58.6	158.73	41.7	32.5	Obese	Y	2	NA	NA	NA	NA		NA	KarenThai	0.711604096	Thai
+T.CS.157	T.CS.157	8/20/16	CS	NA	NA	33	NA	NA	NA	LHS	Karen	Buddhism	Rural Village	NA	Refugee Camp	8	Never	Never	58.3	149.91	35.4	31.01	Obese	Y	2	NA	NA	NA	NA		NA	KarenThai	0.607204117	Thai
+T.CS.151	T.CS.151	8/19/16	CS	NA	NA	32	NA	NA	NA	LHS	Karen	Buddhism	Rural Village	NA	Refugee Camp	10	BN	Never	60.4	163.14	31.1	31.44	Obese	Y	5	NA	NA	NA	NA		NA	KarenThai	0.514900662	Thai
+T.CS.166	T.CS.166	8/21/16	CS	NA	NA	24	NA	NA	NA	HS	Karen	Christianity	Rural Village	NA	Refugee Camp	8	Never	Never	60.6	158.73	33.5	30.39	Obese	Y	1.75	NA	NA	NA	NA		NA	KarenThai	0.552805281	Thai
+T.CS.142	T.CS.142	8/16/16	CS	NA	NA	48	NA	NA	NA	NONE	Karen	Buddhism	Rural Village	NA	Refugee Camp	1.42	Daily	Never	60.8	174.16	37	33.12	Obese	Y	3	NA	NA	NA	NA		NA	KarenThai	0.608552632	Thai
+T.CS.152	T.CS.152	8/19/16	CS	NA	NA	51	NA	NA	NA	NONE	Karen	Buddhism	Rural Village	NA	Refugee Camp	28	Never	Never	57.8	163.14	36.2	34.33	Obese	Y	1.5	NA	NA	NA	NA		NA	KarenThai	0.626297578	Thai
+T.CS.158	T.CS.158	8/20/16	CS	NA	NA	54	NA	NA	NA	LHS	Karen	Buddhism	Rural Village	NA	Refugee Camp	5	Never	Never	60	167.55	38.2	32.72	Obese	Y	1.5	NA	NA	NA	NA		NA	KarenThai	0.636666667	Thai
+T.CS.095	T.CS.095	8/22/16	CS	NA	NA	43	NA	NA	NA	LHS	Karen	Christianity	Rural Village	NA	Refugee Camp	6	BN	Never	59.3	158.73	36.2	31.73	Obese	Y	3	NA	NA	NA	NA		NA	KarenThai	0.610455312	Thai
+T.CS.141	T.CS.141	8/16/16	CS	NA	NA	48	NA	NA	NA	LHS	Karen	Christianity	Rural Village	NA	Refugee Camp	6	BN + Tobacco Daily	Never	59.6	152.12	37.8	30.11	Obese	Y	2	NA	NA	NA	NA		NA	KarenThai	0.634228188	Thai
